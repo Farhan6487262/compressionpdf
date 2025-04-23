@@ -1,5 +1,6 @@
 # streamlit_pdf_compressor.py
-install -y ghostscript
+#install -y ghostscript
+import ghostscript as gs # i hav ewrite this line
 import streamlit as st
 import fitz  # PyMuPDF
 import os
