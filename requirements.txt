@@ -1,4 +1,3 @@
 streamlit
 PyMuPDF
 Pillow
-Ghostscript
